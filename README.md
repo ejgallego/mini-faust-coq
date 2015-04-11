@@ -1,6 +1,12 @@
-Code and pdf for the Linux Audio Conference 2015 tutorial:
+Code, paper and slides for the Linux Audio Conference 2015 tutorial:
 
 "A Taste of Sound Reasoning"
+
+To install coq and ssreflect, you can use:
+
+$ sudo aptitude install libssreflect-coq
+
+By:
 
 * Emilio Jesús Gallego Arias
 * Olivier Hermant
